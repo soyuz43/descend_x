@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Conda envs + Jupyter
+.env/
+.venv/
+.ipynb_checkpoints/
+
+# Vaults & logs
+vault/
+*.log
+*.yaml
+
+# VSCode / editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
